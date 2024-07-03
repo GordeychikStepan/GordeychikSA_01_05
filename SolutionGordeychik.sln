@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileOperatorApp", "MobileOperatorApp\MobileOperatorApp.csproj", "{BB45A220-36D9-4702-861B-434CCC699526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectMobileOperator", "TestProjectMobileOperator\TestProjectMobileOperator.csproj", "{FA7CAB47-DD69-4506-817D-AAA80AFEEE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB45A220-36D9-4702-861B-434CCC699526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB45A220-36D9-4702-861B-434CCC699526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB45A220-36D9-4702-861B-434CCC699526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB45A220-36D9-4702-861B-434CCC699526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7CAB47-DD69-4506-817D-AAA80AFEEE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7CAB47-DD69-4506-817D-AAA80AFEEE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7CAB47-DD69-4506-817D-AAA80AFEEE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7CAB47-DD69-4506-817D-AAA80AFEEE30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BBEB0E2-1584-4900-8822-4F3E01E2CFFF}
+	EndGlobalSection
+EndGlobal
